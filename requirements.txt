@@ -1,0 +1,16 @@
+# 🎬 SensCritique Demo - Dépendances Streamlit
+# Optimisé pour déploiement cloud rapide
+
+# Core Streamlit
+streamlit>=1.28.0
+
+# Data Science & ML
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualisations Interactives  
+plotly>=5.15.0
+
+# Traitement Texte (léger)
+# Note: Pas de spaCy/NLTK lourds pour le déploiement rapide
