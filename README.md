@@ -14,7 +14,7 @@ Développé par **Amir Salah Eddine Daoudi**
 
 ## 🚀 Démo en Ligne
 
-🌐 **[Voir la démo interactive](https://your-senscritique-demo.streamlit.app)**
+🌐 **[Voir la démo interactive](https://senscritique-app.streamlit.app)**
 
 > 💡 **Accès direct** : Testez immédiatement l'algorithme de recommandation sans installation
 
@@ -113,29 +113,6 @@ pip install -r requirements.txt
 
 # Lancer l'application
 streamlit run app.py
-```
-
-### ☁️ Déploiement Streamlit Cloud (Recommandé)
-
-**Étapes Rapides :**
-1. **Fork** ce repository sur votre GitHub
-2. **Connecter** à [Streamlit Cloud](https://streamlit.io/cloud) 
-3. **Déployer** depuis `app.py` 
-4. **✅ En ligne** en 2-3 minutes !
-
-**Configuration Optimale :**
-- **Repository** : `DaoudiAmir/senscritique-streamlit-demo`
-- **Branch** : `main`
-- **Main file** : `app.py`
-- **App URL** : `senscritique-demo` (ou personnalisé)
-
-### 🐳 Docker (Optionnel)
-```bash
-# Build image
-docker build -t senscritique-demo .
-
-# Run container
-docker run -p 8501:8501 senscritique-demo
 ```
 
 ## 📁 Structure du Projet
