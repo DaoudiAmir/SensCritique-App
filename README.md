@@ -20,7 +20,7 @@ Développé par **Amir Salah Eddine Daoudi**
 
 ## 🎥 Aperçu
 
-![Demo Overview](https://via.placeholder.com/800x400/FF6B35/FFFFFF?text=SensCritique+Demo+Screenshot)
+![Demo Overview](1.png)
 
 *Interface principale montrant les recommandations en temps réel avec visualisations interactives*
 
@@ -105,7 +105,7 @@ Cette application démontre un **système de recommandation intelligent** pour l
 ### 💻 Installation Locale
 ```bash
 # Cloner le projet
-git clone https://github.com/VOTRE-USERNAME/senscritique-streamlit-demo.git
+git clone https://github.com/DaoudiAmir/SensCritique-App.git
 cd senscritique-streamlit-demo
 
 # Installer les dépendances
@@ -124,7 +124,7 @@ streamlit run app.py
 4. **✅ En ligne** en 2-3 minutes !
 
 **Configuration Optimale :**
-- **Repository** : `votre-username/senscritique-streamlit-demo`
+- **Repository** : `DaoudiAmir/senscritique-streamlit-demo`
 - **Branch** : `main`
 - **Main file** : `app.py`
 - **App URL** : `senscritique-demo` (ou personnalisé)
